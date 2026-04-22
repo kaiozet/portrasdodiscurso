@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Considerações Finais</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Considerações Finais</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="metodologia.html">Metodologia</a>
+        <a href="analises.html">Análises</a>
+        <a href="perfis.html">Perfis</a>
+        <a href="etica.html">Ética</a>
+        <a href="consideracoes.html">Conclusão</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Síntese do Projeto</h2>
+    <p>
+        O presente Trabalho de Conclusão de Curso teve como objetivo o
+        desenvolvimento e a apresentação de um protótipo de aplicativo
+        voltado à coleta e análise de dados públicos relacionados a campanhas
+        eleitorais, com enfoque acadêmico, neutro e ético.
+    </p>
+
+    <h2>Resultados Obtidos</h2>
+    <p>
+        A partir da implementação do protótipo e das análises realizadas com
+        dados simulados, foi possível observar a viabilidade do uso de
+        tecnologia como ferramenta de apoio à pesquisa acadêmica, permitindo
+        a organização, visualização e comparação estruturada de informações.
+    </p>
+
+    <h2>Contribuições Acadêmicas</h2>
+    <p>
+        O projeto contribui para a área acadêmica ao demonstrar uma abordagem
+        prática para o estudo de campanhas eleitorais no ambiente digital,
+        reforçando a importância da análise de dados e da neutralidade
+        metodológica em pesquisas dessa natureza.
+    </p>
+
+    <h2>Limitações e Trabalhos Futuros</h2>
+    <p>
+        Como se trata de um protótipo acadêmico, o estudo apresenta limitações,
+        principalmente relacionadas ao uso de dados simulados. Trabalhos
+        futuros podem envolver a ampliação das métricas analisadas, a
+        integração com novas fontes de dados públicos e o aprimoramento das
+        visualizações apresentadas.
+    </p>
+
+    <h2>Considerações Finais</h2>
+    <p>
+        Por fim, conclui-se que o projeto atingiu seus objetivos propostos,
+        evidenciando o potencial de soluções computacionais aplicadas à
+        pesquisa acadêmica, sempre respeitando princípios éticos, legais e de
+        neutralidade científica.
+    </p>
+</main>
+
+<footer>
+    <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
+
+</body>
+</html>

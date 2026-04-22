@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Contato</title>
+    <style.css>
+</head>
+<body>
+
+<header>
+    <h1>Contato</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="metodologia.html">Metodologia</a>
+        <a href="analises.html">Análises</a>
+        <a href="perfis.html">Perfis</a>
+        <a href="etica.html">Ética</a>
+        <a href="consideracoes.html">Conclusão</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Informações de Contato</h2>
+    <p>
+        Para mais informações sobre este projeto acadêmico, entre em contato
+        por meio dos dados abaixo.
+    </p>
+
+    <p><strong>Autor(es):</strong> Nome do Aluno (ou Grupo)</p>
+    <p><strong>Curso:</strong> Sistemas de Informação</p>
+    <p><strong>Instituição:</strong> Nome da Faculdade</p>
+    <p><strong>Email acadêmico:</strong> aluno@universidade.edu.br</p>
+
+    <h2>Observação</h2>
+    <p>
+        Este projeto possui finalidade exclusivamente acadêmica, sendo
+        desenvolvido como parte do Trabalho de Conclusão de Curso.
+    </p>
+</main>
+
+<footer>
+    <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
+
+</body>
+</html>

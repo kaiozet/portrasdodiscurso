@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Análises</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Análises dos Dados</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="metodologia.html">Metodologia</a>
+        <a href="analises.html">Análises</a>
+        <a href="perfis.html">Perfis</a>
+        <a href="etica.html">Ética</a>
+        <a href="consideracoes.html">Conclusão</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Visão Geral das Análises</h2>
+    <p>
+        Esta seção apresenta os resultados obtidos a partir da análise dos dados
+        coletados pelo protótipo desenvolvido. Os dados utilizados são simulados
+        e têm como objetivo validar a metodologia proposta e demonstrar o
+        funcionamento da aplicação em um contexto acadêmico.
+    </p>
+
+    <h2>Métricas Avaliadas</h2>
+    <p>
+        As análises basearam-se em métricas quantitativas relacionadas à atuação
+        digital dos perfis analisados, permitindo comparações objetivas entre os
+        diferentes perfis codificados.
+    </p>
+
+    <ul>
+        <li>Número total de publicações</li>
+        <li>Média de interações por publicação</li>
+        <li>Frequência semanal de postagens</li>
+        <li>Nível estimado de engajamento</li>
+    </ul>
+
+    <h2>Tabela Comparativa (Dados Simulados)</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Perfil</th>
+                <th>Publicações</th>
+                <th>Engajamento Médio</th>
+                <th>Frequência Semanal</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Perfil 1</td>
+                <td>120</td>
+                <td>4.500</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>Perfil 2</td>
+                <td>95</td>
+                <td>3.200</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>Perfil 3</td>
+                <td>80</td>
+                <td>2.900</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Interpretação dos Resultados</h2>
+    <p>
+        Observa-se que perfis com maior frequência de publicações tendem a
+        apresentar maior visibilidade digital. Entretanto, o volume de postagens
+        não é o único fator determinante para o engajamento, indicando que a
+        qualidade e o contexto das interações desempenham papel relevante.
+    </p>
+
+    <p>
+        Os resultados demonstram o potencial do protótipo como ferramenta de
+        apoio à pesquisa acadêmica, possibilitando a visualização e comparação
+        clara de métricas relevantes.
+    </p>
+
+    <h2>Observação Final</h2>
+    <p>
+        Por se tratar de um protótipo acadêmico, os dados apresentados têm caráter
+        ilustrativo e não representam informações reais de campanhas eleitorais.
+    </p>
+</main>
+
+<footer>
+    <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
+
+</body>
+</html>

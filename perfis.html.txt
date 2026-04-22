@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Perfis Analisados</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Perfis Analisados</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="metodologia.html">Metodologia</a>
+        <a href="analises.html">Análises</a>
+        <a href="perfis.html">Perfis</a>
+        <a href="etica.html">Ética</a>
+        <a href="consideracoes.html">Conclusão</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Identificação dos Perfis</h2>
+    <p>
+        Os perfis analisados neste estudo foram identificados de forma codificada,
+        sendo denominados como Perfil 1, Perfil 2, até Perfil 8. Essa abordagem
+        foi adotada com o objetivo de preservar a neutralidade da pesquisa e
+        reforçar seu caráter exclusivamente acadêmico.
+    </p>
+
+    <h2>Descrição Geral dos Perfis</h2>
+
+    <h3>Perfil 1</h3>
+    <p>Perfil com elevado alcance digital e alta frequência de publicações.</p>
+
+    <h3>Perfil 2</h3>
+    <p>Apresenta engajamento consistente e interações regulares do público.</p>
+
+    <h3>Perfil 3</h3>
+    <p>Caracteriza-se por crescimento gradual de visibilidade ao longo do período analisado.</p>
+
+    <h3>Perfil 4</h3>
+    <p>Alta frequência de postagens, com variação no volume de interações.</p>
+
+    <h3>Perfil 5</h3>
+    <p>Engajamento concentrado em determinados períodos específicos.</p>
+
+    <h3>Perfil 6</h3>
+    <p>Público segmentado e interações mais direcionadas.</p>
+
+    <h3>Perfil 7</h3>
+    <p>Presença digital recente, com crescimento inicial observado.</p>
+
+    <h3>Perfil 8</h3>
+    <p>Nível de engajamento variável, com oscilações ao longo do tempo.</p>
+
+    <h2>Observações</h2>
+    <p>
+        As descrições apresentadas têm caráter ilustrativo e foram elaboradas
+        com base em dados simulados. O objetivo é demonstrar o funcionamento
+        do protótipo e a possibilidade de organização e comparação de informações
+        de forma clara e ética.
+    </p>
+</main>
+
+<footer>
+    <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
+
+</body>
+</html>

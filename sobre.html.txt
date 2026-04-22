@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre o Projeto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Sobre o Projeto</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="metodologia.html">Metodologia</a>
+        <a href="analises.html">Análises</a>
+        <a href="perfis.html">Perfis</a>
+        <a href="etica.html">Ética</a>
+        <a href="consideracoes.html">Conclusão</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Contextualização do Problema</h2>
+    <p>
+        O uso de tecnologias digitais em campanhas eleitorais tem crescido
+        significativamente nos últimos anos, gerando um grande volume de dados
+        públicos. No entanto, esses dados nem sempre são analisados de forma
+        estruturada e científica no contexto acadêmico.
+    </p>
+
+    <h2>Justificativa</h2>
+    <p>
+        O desenvolvimento deste projeto justifica-se pela necessidade de criar
+        ferramentas que auxiliem na análise comparativa de dados de campanhas
+        eleitorais, permitindo estudos acadêmicos imparciais e baseados em métricas
+        objetivas.
+    </p>
+
+    <h2>Objetivos</h2>
+    <p><strong>Objetivo Geral:</strong></p>
+    <p>
+        Desenvolver um protótipo de aplicativo voltado à coleta e análise de dados
+        públicos de campanhas eleitorais, com finalidade exclusivamente acadêmica.
+    </p>
+
+    <p><strong>Objetivos Específicos:</strong></p>
+    <ul>
+        <li>Coletar dados públicos relacionados à atuação digital de campanhas eleitorais;</li>
+        <li>Organizar e estruturar os dados de forma clara e acessível;</li>
+        <li>Realizar análises comparativas entre perfis políticos codificados;</li>
+        <li>Apresentar os resultados de forma ética e neutra.</li>
+    </ul>
+</main>
+
+<footer>
+    <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
+
+</body>
+</html>

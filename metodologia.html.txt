@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Metodologia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Metodologia</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="metodologia.html">Metodologia</a>
+        <a href="analises.html">Análises</a>
+        <a href="perfis.html">Perfis</a>
+        <a href="etica.html">Ética</a>
+        <a href="consideracoes.html">Conclusão</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Tipo de Pesquisa</h2>
+    <p>
+        A presente pesquisa possui caráter exploratório e descritivo, com abordagem
+        quantitativa, sendo desenvolvida no contexto acadêmico como parte de um
+        Trabalho de Conclusão de Curso.
+    </p>
+
+    <h2>Descrição do Aplicativo</h2>
+    <p>
+        O aplicativo proposto consiste em um protótipo desenvolvido com o objetivo
+        de coletar, organizar e apresentar dados públicos relacionados a campanhas
+        eleitorais. A ferramenta permite a visualização e comparação de métricas
+        associadas à presença digital de perfis políticos.
+    </p>
+
+    <h2>Critérios de Seleção dos Perfis</h2>
+    <p>
+        Foram analisados oito perfis políticos considerados influentes, selecionados
+        a partir de critérios como alcance digital, frequência de publicações e nível
+        médio de engajamento. Os perfis são identificados apenas por códigos
+        (Perfil 1, Perfil 2, etc.), preservando a neutralidade do estudo.
+    </p>
+
+    <h2>Tipos de Dados Coletados</h2>
+    <ul>
+        <li>Número de publicações realizadas;</li>
+        <li>Quantidade de interações (curtidas, comentários e compartilhamentos);</li>
+        <li>Frequência de postagens;</li>
+        <li>Crescimento estimado de visibilidade.</li>
+    </ul>
+
+    <h2>Tratamento dos Dados</h2>
+    <p>
+        Os dados coletados foram organizados em estruturas tabelares e utilizados
+        exclusivamente para simulações acadêmicas, permitindo a geração de análises
+        comparativas e visualizações gráficas.
+    </p>
+
+    <h2>Limitações do Estudo</h2>
+    <p>
+        Por tratar-se de um protótipo acadêmico, os dados apresentados são simulados
+        e não representam informações reais. O estudo não possui finalidade
+        preditiva nem caráter de promoção política.
+    </p>
+</main>
+
+<footer>
+    <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
+
+</body>
+</html>

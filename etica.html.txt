@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Ética e LGPD</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Ética e Conformidade com a LGPD</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="metodologia.html">Metodologia</a>
+        <a href="analises.html">Análises</a>
+        <a href="perfis.html">Perfis</a>
+        <a href="etica.html">Ética</a>
+        <a href="consideracoes.html">Conclusão</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Princípios Éticos do Projeto</h2>
+    <p>
+        Este projeto foi desenvolvido seguindo princípios éticos fundamentais,
+        respeitando a imparcialidade, a transparência e o uso responsável das
+        informações analisadas. O foco do estudo é exclusivamente acadêmico,
+        não havendo qualquer intenção de promoção política, partidária ou
+        ideológica.
+    </p>
+
+    <h2>Uso de Dados Públicos</h2>
+    <p>
+        Todas as informações consideradas no desenvolvimento do protótipo
+        referem-se a dados de acesso público, disponíveis em ambientes digitais.
+        Não são utilizados dados sensíveis ou informações privadas, garantindo
+        o respeito aos direitos individuais.
+    </p>
+
+    <h2>Conformidade com a LGPD</h2>
+    <p>
+        O projeto está alinhado com os princípios da Lei Geral de Proteção de
+        Dados (Lei nº 13.709/2018 – LGPD), uma vez que:
+    </p>
+
+    <ul>
+        <li>Os dados utilizados são de origem pública;</li>
+        <li>Não há identificação nominal de pessoas ou perfis reais;</li>
+        <li>Os perfis analisados são representados apenas por códigos;</li>
+        <li>O uso das informações possui finalidade exclusivamente educacional.</li>
+    </ul>
+
+    <h2>Neutralidade e Finalidade Acadêmica</h2>
+    <p>
+        A neutralidade foi garantida por meio da adoção de critérios objetivos,
+        da codificação dos perfis analisados e da utilização de dados simulados
+        para fins de validação do protótipo. Dessa forma, o estudo mantém seu
+        caráter científico e ético.
+    </p>
+
+    <h2>Considerações Éticas Finais</h2>
+    <p>
+        O cuidado com as questões éticas reforça a relevância acadêmica do
+        projeto, demonstrando responsabilidade no uso de tecnologia aplicada
+        à análise de dados e contribuindo para estudos futuros na área.
+    </p>
+</main>
+
+<footer>
+    <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
+
+</body>
+</html>
