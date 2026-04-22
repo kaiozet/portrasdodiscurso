@@ -7,35 +7,34 @@
 </head>
 <body>
 
-  <header>
-    <h1>Por Trás do Discurso</h1>
-    <nav>
-      <a href="index.html">Home</a> |
-      <a href="sobre.html">Sobre</a> |
-      <a href="metodologia.html">Metodologia</a> |
-      <a href="analises.html">Análises</a> |
-      <a href="perfis.html">Perfis</a> |
-      <a href="etica.html">Ética</a> |
-      <a href="consideracoes.html">Conclusão</a> |
-      <a href="contato.html">Contato</a>
-    </nav>
-    <hr>
-  </header>
+<header>
+  <h1>Por Trás do Discurso</h1>
+  <nav>
+    Home |
+    Sobre |
+    Metodologia |
+    Análises |
+    Perfis |
+    Ética |
+    Conclusão |
+    Contato
+  </nav>
+  <hr>
+</header>
 
-  <main>
-    <h2>Apresentação</h2>
-    <p>
-      Este site apresenta o projeto acadêmico <strong>Por Trás do Discurso</strong>,
-      desenvolvido como Trabalho de Conclusão de Curso (TCC), com foco em análise
-      de dados e interpretação de discursos a partir de metodologia científica.
-    </p>
-  </main>
+<main>
+  <h2>Apresentação</h2>
+  <p>
+    Este site apresenta o projeto acadêmico <strong>Por Trás do Discurso</strong>,
+    desenvolvido como Trabalho de Conclusão de Curso (TCC), com foco na análise,
+    interpretação de dados e discursos em contexto acadêmico.
+  </p>
+</main>
 
-  <footer>
-    <hr>
-    <p>Projeto Acadêmico – TCC</p>
-  </footer>
+<footer>
+  <hr>
+  <p>Projeto Acadêmico – Trabalho de Conclusão de Curso</p>
+</footer>
 
 </body>
 </html>
-``
